@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Paved with Good Intentions
 
-You can use the [editor on GitHub](https://github.com/mcamiano/articles/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+This site is just getting started. What are you expecting to find here? I'm just leaving sort of the default index markdown file here for a while. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The [editor on GitHub](https://github.com/mcamiano/articles/edit/main/docs/index.md) maintains and previews the content for the site in Markdown files.
+
+GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages from the content in Markdown files committed to the main branch.
 
 ### Markdown
 
